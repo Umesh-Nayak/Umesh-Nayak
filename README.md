@@ -8,7 +8,7 @@ I am a dynamic individual with a passion for learning and a diverse set of skill
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Umesh Nayak](http://www.datascienceportfol.io/umeshnayak)
-* ✉️  You can contact me at [Gmail](mailto:umeshnayak902@gmail.com)
+* ✉️  You can contact me at [My E-mail](mailto:umeshnayak902@gmail.com)
 * 🧠  I'm learning Advance Data Analytics
 
 ### Skills
