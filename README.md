@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I am a dynamic individual with a passion for learning and a diverse set of skills. With a background in civil engineering, I excel at problem-solving and critical thinking. I am also deeply interested in analytics and have been actively expanding my expertise in tools like Excel, Sql,Python, Tableau and Power BI. With the recent completion of a data analytics course, I am equipped with the latest techniques and methodologies. Being a lifelong learner, I am always seeking opportunities to grow and improve. My multidimensional skill set and enthusiasm for continuous development make me a valuable asset in any project or role I take on.
+I am a dynamic individual with a passion for learning and a diverse set of skills. With a background in civil engineering, I excel at problem-solving and critical thinking. I am also deeply interested in analytics and have been actively expanding my expertise in tools like Excel, Sql, Python, Tableau and Power BI. With the recent completion of a data analytics course, I am equipped with the latest techniques and methodologies. Being a lifelong learner, I am always seeking opportunities to grow and improve. My multidimensional skill set and enthusiasm for continuous development make me a valuable asset in any project or role I take on.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Umesh Nayak](http://www.datascienceportfol.io/umeshnayak)
